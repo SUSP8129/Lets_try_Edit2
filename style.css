@@ -20,8 +20,26 @@ header .headline{
     margin: 0 20px;
 }
 
-h1{
+h1 {
     text-align: center;
+}
+
+.one {
+    background-color: red;
+}
+
+.two {
+    background-color: yellow;
+}
+
+.three {
+    background-color: green;
+    color: white;
+}
+
+.four {
+    background-color: blue;
+    color: white;
 }
 
 .last {
