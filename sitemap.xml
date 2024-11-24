@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://susp8129.github.io/Lets_try_Edit2/</loc>
+
+      <lastmod>2024-10-18T20:00+09:00</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://susp8129.github.io/Lets_try_Edit2/index.html</loc>
+
+      <lastmod>2024-10-17T20:00+09:00</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://susp8129.github.io/Lets_try_Edit2/Translations.html</loc>
+
+      <lastmod>2024-10-17T20:00+09:00</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://susp8129.github.io/Lets_try_Edit2/about.html</loc>
+
+      <lastmod>2024-10-17T20:00+09:00</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+</urlset>
