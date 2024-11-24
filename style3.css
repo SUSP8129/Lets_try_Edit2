@@ -25,6 +25,22 @@ h1{
     background-color: pink;
 }
 
+.bugfix {
+    background-color: orange;
+}
+
+.legacy {
+    background-color: darkred;
+}
+
+.modern {
+    background-color: darkblue;
+}
+
+.unimplemented {
+    background-color: purple;
+}
+
 .last {
     background-color: lightgreen;
     padding-top: 20px;
