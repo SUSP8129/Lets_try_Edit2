@@ -31,14 +31,17 @@ h1{
 
 .legacy {
     background-color: darkred;
+    color: white;
 }
 
 .modern {
     background-color: darkblue;
+    color: white;
 }
 
 .unimplemented {
     background-color: purple;
+    color: white;
 }
 
 .final {
