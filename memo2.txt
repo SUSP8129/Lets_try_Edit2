@@ -1,7 +1,2 @@
 Video: From YouTube 
 URL: https://youtu.be/yOEOmGiE1mg
-
-
-video2: embled code from youtube.com
-
-<iframe width="353" height="627" src="https://www.youtube.com/embed/gWHVEzjozLI" title="Edit2 - Additional Function 1 #Edit2 #coding #translation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
