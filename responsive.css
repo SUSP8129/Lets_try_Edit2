@@ -38,3 +38,23 @@
     }
 }
 
+
+/* class="video_about-n1" */
+@media (min-width: 1000px) {
+    .video_about-n1 {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .video_about-n1 {
+        width: 70%;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 670px) {
+    .video_about-n1 {
+        width: 80%;
+    }
+}
