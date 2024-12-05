@@ -20,20 +20,20 @@
 
 /* class="video_indexsec2" */
 @media (min-width: 1000px) {
-    .index_sec2 {
+    .index-sec2 {
         width: 60%;
     }
 }
 
 @media (max-width: 1000px) {
-    .index_sec2 {
+    .index-sec2 {
         width: 80%;
         margin-bottom: 50px;
     }
 }
 
 @media (max-width: 670px) {
-    .index_sec2 {
+    .index-sec2 {
         width: 90%;
     }
 }
