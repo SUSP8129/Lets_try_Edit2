@@ -17,3 +17,24 @@
         width: 100%;
     }
 }
+
+/* class="video_indexsec2" */
+@media (min-width: 1000px) {
+    .translations {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .translations {
+        width: 80%;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 670px) {
+    .translations {
+        width: 90%;
+    }
+}
+
